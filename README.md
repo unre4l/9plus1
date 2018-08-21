@@ -1,1 +1,1 @@
-![Alt text](raw.png?raw=true)
+![Alt text](raw.png?v=1&raw=true)
